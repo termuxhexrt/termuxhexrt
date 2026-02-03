@@ -429,22 +429,6 @@ Status: Experimental | Private Details
 
 <div align="center">
 
-### 🔥 PROFILE STATS 🔥
-
-<a href="https://github.com/termuxhexrt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=termuxhexrt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=termuxhexrt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br><br>
-
-### ⚡ CONTRIBUTION STREAK ⚡
-
-<a href="https://github.com/termuxhexrt">
-  <img src="https://streak-stats.demolab.com?user=termuxhexrt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&sideLabels=00FF41" alt="GitHub Streak"/>
-</a>
-
-<br><br>
 
 ### 📈 ACTIVITY GRAPH 📈
 
