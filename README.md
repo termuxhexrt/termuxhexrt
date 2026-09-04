@@ -3,10 +3,15 @@
 <!-- Premium Glitch Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=TERMUXHEXRT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
-<!-- Advanced Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=1000&height=120&lines=💻+FULLSTACK+ARCHITECT+%7C+9%2B+PRODUCTION+SYSTEMS;⚡+AI-POWERED+AUTOMATION+ENGINEER;🔥+PYTHON+%7C+JAVASCRIPT+%7C+NODEJS;🎯+BUILDING+INTELLIGENT+AGENTS+THAT+THINK;🛡️+SECURITY+%7C+OSINT+%7C+RED+TEAM+SPECIALIST;🚀+SCALING+SYSTEMS+BEYOND+LIMITS" alt="Typing SVG" />
-</a>
+<!-- Professional Tagline -->
+<h2 style="color: #00FF41; font-family: 'Courier New', monospace; margin: 20px 0;">
+💻 FULLSTACK ARCHITECT | 9+ PRODUCTION SYSTEMS<br/>
+⚡ AI-POWERED AUTOMATION ENGINEER<br/>
+🔥 PYTHON | JAVASCRIPT | NODE.JS<br/>
+🎯 BUILDING INTELLIGENT AGENTS THAT THINK<br/>
+🛡️ SECURITY | OSINT | RED TEAM SPECIALIST<br/>
+🚀 SCALING SYSTEMS BEYOND LIMITS
+</h2>
 
 <br/>
 
